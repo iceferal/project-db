@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8264937d-6950-45ba-9cff-3ec1536d3e0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="iceferal" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c5ioaHgg790A7sctJz955l9nfd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alien\Desktop\Studia\Project\baza" />
+      <recent name="C:\Users\alien\Desktop\Studia\Project\baza — kopia" />
+    </key>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="test" />
+    <MESSAGE value="test ts" />
+    <option name="LAST_COMMIT_MESSAGE" value="test ts" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="950" y="441" width="752" height="274" key="#Notifications" timestamp="1589833000797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="950" y="441" width="752" height="274" key="#Notifications/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589833000797" />
+    <state x="-1133" y="213" key="#Plugins" timestamp="1589829653806">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1133" y="213" key="#Plugins/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1589829653806" />
+    <state x="-1427" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589830294992">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1427" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1589830294992" />
+    <state x="840" y="380" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589832327451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="840" y="380" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589832327451" />
+    <state x="656" y="165" key="CommitChangelistDialog2" timestamp="1589832960826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="165" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589832960826" />
+    <state x="439" y="341" key="FileChooserDialogImpl" timestamp="1589832595762">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1101" y="315" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1589830187682" />
+    <state x="439" y="341" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589832595762" />
+    <state x="943" y="454" key="Github.ShareDialog" timestamp="1589833957207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="943" y="454" key="Github.ShareDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589833957207" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1589825593276">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1589825593276" />
+    <state x="-1020" y="292" key="RollbackChangesDialog" timestamp="1589829340443">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1020" y="292" key="RollbackChangesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1589829340443" />
+    <state x="666" y="234" key="SettingsEditor" timestamp="1589833722615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1254" y="234" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1589830035040" />
+    <state x="666" y="234" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589833722615" />
+    <state x="787" y="305" key="Vcs.Push.Dialog.v2" timestamp="1589833628026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1133" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1589830049537" />
+    <state x="787" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589833628026" />
+    <state x="683" y="280" key="com.intellij.database.dbimport.ImportDialog" timestamp="1589827854540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="280" key="com.intellij.database.dbimport.ImportDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589827854540" />
+    <state x="833" y="430" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1589827852937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="430" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589827852937" />
+    <state x="874" y="492" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589832865366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="874" y="492" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589832865366" />
+    <state x="765" y="366" key="git4idea.merge.GitMergeDialog" timestamp="1589833685766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="366" key="git4idea.merge.GitMergeDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589833685766" />
+    <state x="-924" y="478" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589828992401">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-924" y="478" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1589828992401" />
+  </component>
+</project>
