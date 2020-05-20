@@ -1043,19 +1043,24 @@
       <ColumnKind>normal</ColumnKind>
       <Collation>utf8_polish_ci</Collation>
     </column>
-    <column id="331" parent="327" name="email">
+    <column id="331" parent="327" name="login">
       <Position>4</Position>
       <DataType>varchar(256)|0s</DataType>
-      <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="332" parent="327" name="password">
+    <column id="332" parent="327" name="email">
       <Position>5</Position>
       <DataType>varchar(256)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <key id="333" parent="327" name="PRIMARY">
+    <column id="333" parent="327" name="password">
+      <Position>6</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <NotNull>1</NotNull>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <key id="334" parent="327" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>user_id</ColNames>
       <Primary>1</Primary>

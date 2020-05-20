@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8264937d-6950-45ba-9cff-3ec1536d3e0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f022bc5f-752b-4831-b2cc-8cbd9cdd15b2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f022bc5f-752b-4831-b2cc-8cbd9cdd15b2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +66,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="test ts" />
     <MESSAGE value="nowe dane" />
-    <option name="LAST_COMMIT_MESSAGE" value="nowe dane" />
+    <MESSAGE value="login" />
+    <option name="LAST_COMMIT_MESSAGE" value="login" />
   </component>
   <component name="WindowStateProjectService">
     <state x="950" y="441" width="752" height="274" key="#Notifications" timestamp="1589833000797">
@@ -84,10 +86,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="840" y="380" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589834477919" />
-    <state x="656" y="165" key="CommitChangelistDialog2" timestamp="1589834544426">
+    <state x="656" y="165" key="CommitChangelistDialog2" timestamp="1589966422183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="165" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589834544426" />
+    <state x="656" y="165" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589966422183" />
     <state x="439" y="341" key="FileChooserDialogImpl" timestamp="1589832595762">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -115,6 +117,10 @@
     </state>
     <state x="-1133" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1589830049537" />
     <state x="787" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589834559230" />
+    <state x="621" y="472" width="316" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1589966354432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="621" y="472" width="316" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589966354432" />
     <state x="683" y="280" key="com.intellij.database.dbimport.ImportDialog" timestamp="1589827854540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -123,6 +129,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="833" y="430" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589827852937" />
+    <state x="602" y="298" width="543" height="594" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1589966335624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="602" y="298" width="543" height="594" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589966335624" />
     <state x="874" y="492" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589832865366">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
